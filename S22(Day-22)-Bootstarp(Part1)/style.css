@@ -1,0 +1,49 @@
+.discount{
+    color: red;
+    text-align: center;
+}
+
+.d-block{
+    width: 150px;
+    height: 400px;
+}
+
+.navbar{
+    background-color: red;
+}
+
+
+.cardDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: end;
+    margin: 10px;
+    padding: 10px;
+}  
+
+
+.card-img-top{
+    width: 283px;
+    height: 200px;
+}
+
+.marginDiv{
+    margin: 10px;
+}
+
+.bodyColour{
+    background-color:lightpink;
+}
+
+
+.alert{
+    font-size: 35px;
+    font-weight: 600;
+    color: black;
+    background-color: chartreuse;
+    border-radius: 100px;
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+}
